@@ -27,10 +27,11 @@ body
     left: 20px;
 }
 
-.nav-text
+.nav-text a
 {
     color: white;
     font-size: 14px;   
+    margin-right: 20px;
 }
 
 .top-bar
@@ -67,6 +68,12 @@ body
     }
 }
 
+.respond
+{
+    color: #57c404;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
 
 a
 {
